@@ -1,21 +1,17 @@
-python-docx>=0.8.11
-#pandas>=2.0.0
-openai>=1.0.0
-cerebras-cloud-sdk>=1.0.0
+python-docx
+openai
+cerebras-cloud-sdk
 langchain
 langchain-community
 openpyxl
 streamlit==1.38.0 #streamlit
-requests==2.31.0
-python-dotenv==1.0.0
+requests
+python-dotenv
 PyPDF2
 pypdf #==3.0.1
-pandas==2.1.4
-transformers==4.38.2
+pandas
+transformers
 torch
-accelerate==0.27.2
-sentencepiece==0.2.0
-#bitsandbytes==0.42.0
 huggingface-hub==0.20.3
 sentence-transformers
 faiss-cpu
