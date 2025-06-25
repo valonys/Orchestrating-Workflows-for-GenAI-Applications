@@ -19,7 +19,7 @@ This is the modularized version of the DigiTwin Analytics application, designed 
    - File upload handling
 
 3. **`visualization.py`** - Visualization and plotting
-   - FPSO layout drawing functions
+   - Plant layout drawing functions
    - Matplotlib utilities
    - Chart generation
 
